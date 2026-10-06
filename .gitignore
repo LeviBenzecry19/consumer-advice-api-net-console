@@ -1,0 +1,15 @@
+# Build do .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+
+# Editores
+.vs/
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
